@@ -5,11 +5,11 @@ Resources for Illinois Statisticians attempting to learn deep learning.
 - [CS 231 @ Stanford](http://cs231n.stanford.edu/)
   - [Read notes](http://cs231n.github.io/)
 - Loosely follow CS231 assignments. Code from scratch in Python:
-  - Multiple Logistic Regression
+  - Multiple logistic regression with regularization
   - Add a hidden layer, with ReLu activation
-  - Add regularization
-  - Use mini-batch
-  - Use dropout
+  - Add mini-batch
+  - Add dropout
+  - Add batch-norm
   - Add abstraction
 - Learn high-level libraries
   - [TensorFlow](https://www.tensorflow.org/)
