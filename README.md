@@ -15,6 +15,10 @@ Resources for Illinois Statisticians attempting to learn deep learning.
   - [TensorFlow](https://www.tensorflow.org/)
   - [Keras](https://keras.io/)
   - [PyTorch](http://pytorch.org/)
+- Train more complex architectures
+  - CNN
+  - RNN
+  - GAN
 - Understand computing resources
   - Create local VM with necessary libraries
   - Create cloud VM with necessary libraries 
