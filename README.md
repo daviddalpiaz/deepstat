@@ -18,7 +18,7 @@ Resources for Illinois Statisticians attempting to learn deep learning.
 - Understand computing resources
   - Create local VM with necessary libraries
   - Create cloud VM with necessary libraries 
-- Train on large datasets
+- Train on "large" datasets
   - CIFAR-10
   - ImageNet
 - [Read current literature](https://github.com/terryum/awesome-deep-learning-papers)
