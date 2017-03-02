@@ -2,6 +2,7 @@
 Resources for Illinois Statisticians attempting to learn deep learning.
 
 - [Deep Learning - Yann LeCun](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+- [On the Origin of Deep Learning](https://arxiv.org/abs/1702.07800)
 - [CS 231 @ Stanford](http://cs231n.stanford.edu/)
   - [Read notes](http://cs231n.github.io/)
   - [Read deep learning book](http://www.deeplearningbook.org/)
