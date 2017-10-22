@@ -6,6 +6,7 @@ Resources for Illinois Statisticians attempting to learn deep learning.
 - [CS 231 @ Stanford](http://cs231n.stanford.edu/)
   - [Read notes](http://cs231n.github.io/)
   - [Read deep learning book](http://www.deeplearningbook.org/)
+- [Deep Learning Papers Reading Roadmap](https://github.com/songrotek/Deep-Learning-Papers-Reading-Roadmap)
 - Loosely follow CS231 assignments. Code from scratch in Python:
   - Multiple logistic regression with regularization
   - Add a hidden layer, with ReLu activation
@@ -27,4 +28,4 @@ Resources for Illinois Statisticians attempting to learn deep learning.
 - Train on "large" datasets
   - CIFAR-10
   - ImageNet
-- [Read current literature](https://github.com/terryum/awesome-deep-learning-papers)
+- [Read current literature](https://github.com/terryum/awesome-deep-learning-papers) 
