@@ -30,3 +30,6 @@ Resources for Illinois Statisticians attempting to learn deep learning.
   - ImageNet
 - [Read current literature](https://github.com/terryum/awesome-deep-learning-papers) 
 
+
+
+
