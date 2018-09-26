@@ -29,3 +29,4 @@ Resources for Illinois Statisticians attempting to learn deep learning.
   - CIFAR-10
   - ImageNet
 - [Read current literature](https://github.com/terryum/awesome-deep-learning-papers) 
+
